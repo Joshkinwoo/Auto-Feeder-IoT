@@ -1,2 +1,2 @@
 # Auto-Feeder-IoT
-Automatic Feeder System integrated with google assistant using ESP8266.
+Automatic Feeder System integrated with Google Assistant using ESP8266.
